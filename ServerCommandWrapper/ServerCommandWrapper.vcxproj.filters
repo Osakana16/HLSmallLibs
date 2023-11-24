@@ -3,7 +3,4 @@
   <ItemGroup>
     <ClCompile Include="server_command.hpp" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="LICENSE" />
-  </ItemGroup>
 </Project>
